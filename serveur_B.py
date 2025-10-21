@@ -6,7 +6,7 @@ from aiohttp import web, ClientSession
 # CONFIGURATION
 # ----------------------------------------------------------------------
 # URL du serveur A (à modifier selon ton hébergement)
-SERVER_A_URL = "http://127.0.0.1:8080/ping"  # exemple : URL publique de A
+SERVER_A_URL = "https://bot-spet.onrender.com/ping"  # exemple : URL publique de A
 
 # ----------------------------------------------------------------------
 # SERVEUR HTTP DE B
